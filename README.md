@@ -44,9 +44,11 @@
 1. **清华大学开放词库 (THUOCL) IT词库**  
    > 中文参考：韩世依, 张钰晖, 马云山, 涂存超, 郭志芃, 刘知远, 孙茂松.  
    > *THUOCL：清华大学开放中文词库. 2016.*
-
+   - http://thuocl.thunlp.org/
+   
 2. **搜狗细胞词库**  
-   - 网络流行新词作为参考  
+   > 网络流行新词作为参考
+   - https://pinyin.sogou.com/dict/detail/index/4  
 
 ---
 
